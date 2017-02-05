@@ -29,8 +29,8 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
-        "header_custom": "",
+        "meta_descr": "\n",
+        "header_custom": "text-align: left;",
         "footer_custom": "",
         "html_before": ""
       },
