@@ -110,9 +110,9 @@
             "transparent": true,
             "sticky": false,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -270,10 +270,10 @@
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": false,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -380,7 +380,7 @@
           "_name": "header3",
           "_anchor": "header3-6",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#000080",
             "showMeta": true
@@ -467,9 +467,9 @@
             "transparent": true,
             "sticky": false,
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
