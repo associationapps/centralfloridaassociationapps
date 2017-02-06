@@ -380,7 +380,7 @@
           "_name": "header3",
           "_anchor": "header3-6",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#000080",
             "showMeta": true
