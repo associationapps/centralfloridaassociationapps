@@ -27,9 +27,9 @@
   "pages": {
     "page1.html": {
       "settings": {
-        "title": "My Association ApP",
+        "title": "My Association App",
         "meta_descr": "",
-        "header_custom": "MY ASSOCIATION APP",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
