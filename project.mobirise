@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -54,10 +54,10 @@
               "font-family": "'Lora', serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "1.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "1.733rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -166,7 +166,7 @@
           },
           "title": "",
           "text": "The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations.&nbsp;&nbsp; <br><br>Because of the way we have treated people for decades, Specialty has built an unmatched network of professionals and service providers who are eager to work with our team.&nbsp; Our clients are the benefactors of the reputation of professionalism we have built in the business community.<br><br>We have grown steadily over the years into an organization that has the resources and systems in place to handle any community.&nbsp; Along with this stable growth we have we have always made a conscious effort to maintain a level of customer focus and flexibility that has been unfortunately lost by many of our competitors.<br><br>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.<br><br>The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations<br><br>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Home</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a>"
         }
       ]
     },
