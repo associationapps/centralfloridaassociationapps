@@ -99,7 +99,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000080",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Lora",
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
@@ -262,7 +262,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000080",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Lora",
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
@@ -408,10 +408,10 @@
               "font-family": "'Lora', serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -456,7 +456,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000080",
-            "fontSize": "0.75",
+            "fontSize": "0.6",
             "fontName": {
               "name": "Lora",
               "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
