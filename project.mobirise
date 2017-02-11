@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "bodpage.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -253,10 +253,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -279,7 +279,7 @@
               "background": "#000080"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -299,7 +299,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
@@ -755,7 +755,7 @@
         "title": "",
         "meta_descr": "\n",
         "header_custom": "",
-        "footer_custom": "<html>\n<head>\n<meta content=\"text/html; charset=ISO-8859-1\"\nhttp-equiv=\"content-type\">\n<title></title>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<span style=\"color: white;\">Bob Brown</span><br>\n<a href=\"%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Linda White</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nLinda</a><br>\n</body>\n</html>",
+        "footer_custom": "<html>\n<head>\n<meta content=\"text/html; charset=ISO-8859-1\"\nhttp-equiv=\"content-type\">\n<title></title>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<p>Book now, call <a href=\"tel:01234567890\">01234 567 890</a></p><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Bob Brown</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nBob</a><br>\n<br>\n<span style=\"color: white;\">Linda White</span><br>\n<a\nhref=\"chrome://editor/content/blanks/%3Ca%20href=%22tel:+14071234567%22%3E123-4567%3C/a%3E\"><span\nstyle=\"color: white;\">407-123-4567</span></a><br>\n<a style=\"color: white;\" href=\"mailto:ncmountaindawg@gmail.com\">Email\nLinda</a><br>\n</body>\n</html>",
         "html_before": ""
       },
       "components": [
@@ -771,10 +771,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-family": "'Lora', serif"
             },
@@ -797,7 +797,7 @@
               "background": "#000080"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -817,7 +817,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             }
           },
           "_name": "menu",
